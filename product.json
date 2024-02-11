@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"title": "mesa",
+		"description": "de madera",
+		"price": 5000,
+		"thumbnail": "img1",
+		"code": 1234,
+		"stock": 5
+	},
+	{
+		"id": 3,
+		"title": "mesa",
+		"description": "de madera",
+		"price": 5000,
+		"thumbnail": "img1",
+		"code": 1234,
+		"stock": 5
+	},
+	{
+		"id": 4,
+		"title": "mesa",
+		"description": "de madera",
+		"price": 5000,
+		"thumbnail": "img1",
+		"code": 1234,
+		"stock": 5
+	},
+	{
+		"id": 5,
+		"title": "mesa",
+		"description": "de madera",
+		"price": 5000,
+		"thumbnail": "img1",
+		"code": 1234,
+		"stock": 5
+	},
+	{
+		"id": 6,
+		"title": "escritorio",
+		"description": "de madera",
+		"price": 5000,
+		"thumbnail": "img1",
+		"code": 1234,
+		"stock": 5
+	},
+	{
+		"id": 7,
+		"title": "cama",
+		"description": "de madera",
+		"price": 5000,
+		"thumbnail": "img1",
+		"code": 1234,
+		"stock": 5
+	},
+	{
+		"id": 7,
+		"title": "mesa",
+		"description": "de madera",
+		"price": 5000,
+		"thumbnail": "img1",
+		"code": 1234,
+		"stock": 5
+	}
+]
